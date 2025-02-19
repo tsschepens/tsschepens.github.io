@@ -5,17 +5,17 @@
     "city": "Paris",
 
     "categories": {
-        "work": {
-            "slack": "https://slack.com/",
-            "trello": "https://trello.com"
+        "flag": {
+            "geoguessr": "https://www.geoguessr.com/fl/2088?gamemode=type",
+            "flagle": "https://flagleunlimited.fun/"
         },
         "news": {
             "xataka": "https://xataka.com",
             "theverge": "https://theverge.com"
         },
         "social": {
-            "github": "https://github.com",
-            "reddit": "https://reddit.com"
+            "myges": "https://myges.fr/student/home",
+            "discord": "https://discord.com/channels/@me"
         }
     }
 }
